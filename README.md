@@ -1,1 +1,1 @@
-To run this app, navigate to this repository in the terminal and type 'npm start' in the terminal. You will need to access the 'http://localhost:3000/' to access the webpage.
+To run this app, navigate to this repository in the terminal and type 'npx expo start' in the terminal. You will need to access the 'http://localhost:8081/' to access the webpage.
